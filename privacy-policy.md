@@ -1,11 +1,11 @@
 # Privacy Policy for TA Cat Extension
 
-**Last Updated:** 2023-11-01
+**Last Updated:** 2025-05-20
 
 ## 1. Information We Collect
 - **Solana Contract Addresses**: When you enter a token contract address for analysis, it is temporarily processed by our backend (Heroku) but not stored.
 - **Local Storage Data**: Your UI preferences (e.g., theme, language) are saved locally via Chrome's `storage.sync` API.
-- **Analytics**: Anonymous usage metrics (e.g., feature clicks) are collected via [Google Analytics 4] (可选).
+- **Analytics**: Anonymous usage metrics (e.g., feature clicks) are collected via [Google Analytics 4].
 
 ## 2. How We Use Data
 - To provide token analysis results.
@@ -24,5 +24,4 @@
 - Opt out of analytics: Disable in extension settings (if applicable).
 
 ## 6. Contact Us
-Email: your-email@example.com  
-GitHub Issues: [TA Cat Repository](https://github.com/your-username/tha-cat-bot)
+Email: TaCatAdmin@proton.me  
