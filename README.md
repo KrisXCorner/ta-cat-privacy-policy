@@ -21,7 +21,6 @@
 
 ## 5. Your Rights
 - Clear local data: Uninstall the extension or use Chrome's storage settings.
-- Opt out of analytics: Disable in extension settings (if applicable).
 
 ## 6. Contact Us
 Email: TaCatAdmin@proton.me  
